@@ -1,5 +1,7 @@
 ---
 title: "Lottesandentest"
+categories:
+  - Red
 weight: 70
 ---
 

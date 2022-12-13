@@ -1,6 +1,7 @@
 ---
-
-title: "Billedformattering"  
+title: "Billedformattering" 
+categories:
+  - Red 
 weight: 1
 
 ---

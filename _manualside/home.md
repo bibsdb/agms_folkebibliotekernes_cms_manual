@@ -1,5 +1,7 @@
 ---
 title: "Redaktør overblik"
+categories:
+  - Red
 permalink: /manualside/
 weight: 0
 ---

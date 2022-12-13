@@ -1,6 +1,8 @@
 ---
 
 title: "En side om noget"  
+categories:
+  - Red
 weight: 2
 
 ---
