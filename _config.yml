@@ -84,6 +84,22 @@ defaults:
     values:
       layout: splash
       author_profile: false
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: single
+      toc: true
+      toc_label: "Indhold på siden"
+      author_profile: false
+      read_time: false
+      comments: false
+      share: true
+      related: true
+      sidebar:
+        title: "Redaktør manual"
+        nav: "redaktoer"
   # _redaktoer
   - scope:
       path: ""
@@ -99,33 +115,10 @@ defaults:
       sidebar:
         title: "Redaktør manual"
         nav: "redaktoer"
-  # _administrator
-  - scope:
-      path: ""
-      type: administrator
-    values:
-      layout: single
-      toc: true
-      toc_label: "Indhold på siden"
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        title: "Administrator manual"
-        nav: "administrator"
-  # _udvikler
-  - scope:
-      path: ""
-      type: udvikler
-    values:
-      layout: single
-      toc: true
-      toc_label: "Indhold på siden"
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        title: "Dokumentation for udviklere"
-        nav: "udvikler"
+ 
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
