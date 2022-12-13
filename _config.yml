@@ -93,8 +93,9 @@ defaults:
       toc_label: "Indhold på siden"
       read_time: false
       author_profile: false
-      share: false
       comments: false
+      share: true
+      related: true
       sidebar:
         title: "Manualsider"
         nav: "manualside"

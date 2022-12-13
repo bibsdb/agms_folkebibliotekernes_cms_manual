@@ -1,5 +1,7 @@
 ---
 title: "En side om noget andet"
+categories:
+  - Søgning
 tags:
   - Redaktør
   - Administrator

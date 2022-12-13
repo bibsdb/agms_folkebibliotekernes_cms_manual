@@ -1,5 +1,7 @@
 ---
 title: "Lottesandentest"
+categories:
+  - Søgning
 tags:
   - Redaktør
   - Administrator

@@ -1,5 +1,7 @@
 ---
 title: "Billedformattering" 
+categories:
+  - Søgning
 tags:
   - Redaktør
   - Administrator

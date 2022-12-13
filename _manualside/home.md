@@ -1,5 +1,7 @@
 ---
 title: "Redaktør overblik"
+categories:
+  - Redaktionelt indhold
 tags:
   - Redaktør
   - Administrator

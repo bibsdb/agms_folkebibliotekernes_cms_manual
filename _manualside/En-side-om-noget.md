@@ -1,6 +1,8 @@
 ---
 
 title: "En side om noget"  
+categories:
+  - Redaktionelt indhold
 tags:
   - Redaktør
   - Administrator
