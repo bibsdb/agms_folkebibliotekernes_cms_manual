@@ -94,8 +94,8 @@ defaults:
       read_time: false
       author_profile: false
       comments: false
-      share: true
-      related: true
+      share: false
+      related: false
       sidebar:
         title: "Manualsider"
         nav: "manualside"
