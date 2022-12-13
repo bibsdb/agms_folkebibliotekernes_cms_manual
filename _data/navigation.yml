@@ -1,6 +1,6 @@
 main:
-  - title: "Redaktør"
-    url: /redaktoer/
+  - title: "Manualside"
+    url: /manualside/
   - title: "Administrator"
     url: /administrator/
   - title: "Udvikler"

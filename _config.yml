@@ -35,7 +35,6 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-collections_dir: sider
 
 include:
   - _pages
@@ -66,13 +65,7 @@ atom_feed:
 
 # Collections
 collections:
-  administrator:
-    output: true
-    permalink: /:collection/:path/
-  redaktoer:
-    output: true
-    permalink: /:collection/:path/
-  udvikler:
+  manualside:
     output: true
     permalink: /:collection/:path/
 
@@ -84,26 +77,10 @@ defaults:
     values:
       layout: splash
       author_profile: false
-  # _posts
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: single
-      toc: true
-      toc_label: "Indhold på siden"
-      author_profile: false
-      read_time: false
-      comments: false
-      share: true
-      related: true
-      sidebar:
-        title: "Redaktør manual"
-        nav: "redaktoer"
-  # _redaktoer
+  # _manualside
   - scope:
       path: ""
-      type: redaktoer
+      type: manualside
     values:
       layout: single
       toc: true
@@ -113,8 +90,8 @@ defaults:
       share: false
       comments: false
       sidebar:
-        title: "Redaktør manual"
-        nav: "redaktoer"
+        title: "Manualsider"
+        nav: "manualside"
  
 category_archive:
   type: liquid

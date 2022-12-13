@@ -1,6 +1,6 @@
 ---
 title: "Redaktør overblik"
-permalink: /redaktoer/
+permalink: /manualside/
 weight: 0
 ---
 
