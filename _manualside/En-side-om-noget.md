@@ -1,8 +1,10 @@
 ---
 
 title: "En side om noget"  
-categories:
-  - Red
+tags:
+  - Redaktør
+  - Administrator
+  - Udvikler
 weight: 2
 
 ---

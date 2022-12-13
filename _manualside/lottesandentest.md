@@ -1,7 +1,9 @@
 ---
 title: "Lottesandentest"
-categories:
-  - Red
+tags:
+  - Redaktør
+  - Administrator
+  - Udvikler
 weight: 70
 ---
 

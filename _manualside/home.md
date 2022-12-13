@@ -1,7 +1,9 @@
 ---
 title: "Redaktør overblik"
-categories:
-  - Red
+tags:
+  - Redaktør
+  - Administrator
+  - Udvikler
 permalink: /manualside/
 weight: 0
 ---

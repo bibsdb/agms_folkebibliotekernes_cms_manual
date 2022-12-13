@@ -1,7 +1,9 @@
 ---
 title: "Billedformattering" 
-categories:
-  - Red 
+tags:
+  - Redaktør
+  - Administrator
+  - Udvikler
 weight: 1
 
 ---
