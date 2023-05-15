@@ -26,7 +26,6 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages-main
           publish_dir: ./public
           destination_dir: subdir
           enable_jekyll: true
